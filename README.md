@@ -4,7 +4,7 @@ This project created for Flutter clean architecture
 
 Implemented Flutter clean architecture using MVVM Riverpod and Freezed
 
-#References material
+## References material
 
 [resocoder.com](https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/)
 
@@ -12,7 +12,7 @@ Implemented Flutter clean architecture using MVVM Riverpod and Freezed
 
 [Geeksforgeeks_RISHU_MISHRA](https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-android/)
 
-#Dependency
+## Dependency
 
 [Riverpod](https://pub.dev/packages/flutter_riverpod)
 
